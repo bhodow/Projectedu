@@ -10,5 +10,5 @@ This is sample PHP program which auto runs the index.php with just the base URL
   * docker run ( docker run -d -p <host_port>:80 <image_name> )
      ### docker run -d -p 8888:80 projedureka
 
-  * Access the application from any web exlorer like chrome on http://<IP>:<port>/
+  * Access the application from any web explorer like chrome on http://<IP>:<port>/
      ### http://35.184.132.163:8888/ 
